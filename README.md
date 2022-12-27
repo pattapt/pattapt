@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm patta</h1>
 <h3 align="center">A passionate fullstack developer from Thailand</h3>
 
-- 🔭 I’m currently working on [CSCSGAMESTORE](www.csgame.store)
+- 🔭 I’m currently working on [CSCSGAMESTORE](https://www.csgame.store)
 
 - 🌱 I’m currently learning **Node Js, React, Flutter, Vue**
 
-- 📝 I regularly write articles on [www.patta.dev](www.patta.dev)
+- 📝 I regularly write articles on [www.patta.dev](https://www.patta.dev)
 
 - 📫 How to reach me **Ig @ppatta.pt**
 
