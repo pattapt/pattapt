@@ -2,8 +2,8 @@
 <h3 align="center">A Fullstack Develoepr who's love to fall asleep while working</h3>
 
 - 🔭 I’m currently working on [CSGAME STORE Project](https://www.csgame.store/)
-- 
-- 🎥 I'm influencer in tiktok at [https://www.patta.dev](https://www.tiktok.com/@ppatta.pt)
+
+- 🎥 I'm influencer in tiktok at [https://www.tiktok.com/@ppatta.pt](https://www.tiktok.com/@ppatta.pt)
 
 - 🌱 I’m currently learning **Go, React, Vue, TypeScript**
 
